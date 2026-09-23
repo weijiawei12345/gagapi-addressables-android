@@ -1,0 +1,18 @@
+{
+  "version": "1.0.10",
+  "locale": "en",
+  "entries": {
+    "TestPanel.Test1": "this is test1",
+    "TestPanel.Test2": "this is test2",
+    "TestPanel.Test3": "this is test3",
+    "TestPanel.Test4": "this is test4",
+    "hotupdate.structure_version": "Addressables v2 EN",
+    "language.current": "Your Language:",
+    "localization.asset": "Locale flag",
+    "localization.dynamic": "{global.player-name} has {apple-component.appleCount:plural:an apple|{} apples}",
+    "localization.sample": "Hello World!",
+    "menu.new_game": "OneLastKiss",
+    "menu.quit": "Quit?",
+    "menu.settings": "Settings!"
+  }
+}

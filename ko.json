@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "locale": "ko",
+  "entries": {
+    "TestPanel.Test1": "\ud14c\uc2a4\ud2b8 1",
+    "TestPanel.Test2": "\ud14c\uc2a4\ud2b8 2",
+    "TestPanel.Test3": "\ud14c\uc2a4\ud2b8 3",
+    "TestPanel.Test4": "\ud14c\uc2a4\ud2b8 4",
+    "hotupdate.structure_version": "Addressables v2 KO",
+    "language.current": "\ud604\uc7ac \uc5b8\uc5b4:",
+    "localization.asset": "\uc5b8\uc5b4 \uae43\ubc1c",
+    "localization.dynamic": "{global.player-name}\ub294 {apple-component.appleCount}\uac1c\uc758 \uc0ac\uacfc\ub97c \uac00\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4",
+    "localization.sample": "Addressables v2 KO",
+    "menu.new_game": "\uc0c8 \uac8c\uc784",
+    "menu.quit": "\uc885\ub8cc",
+    "menu.settings": "\uc124\uc815"
+  }
+}

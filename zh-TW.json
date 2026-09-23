@@ -1,0 +1,18 @@
+{
+  "version": "1.0.5",
+  "locale": "zh-TW",
+  "entries": {
+    "TestPanel.Test1": "\u9019\u662f\u6e2c\u8a66\u4e00",
+    "TestPanel.Test2": "\u9019\u662f\u6e2c\u8a66\u4e8c",
+    "TestPanel.Test3": "\u9019\u662f\u6e2c\u8a66\u53c3",
+    "TestPanel.Test4": "\u9019\u662f\u6e2c\u8a66\u56db",
+    "hotupdate.structure_version": "Addressables v2 ZH-TW",
+    "language.current": "\u76ee\u524d\u8a9e\u8a00\uff1a",
+    "localization.asset": "\u8a9e\u7cfb\u65d7\u5e5f",
+    "localization.dynamic": "{global.player-name} \u6709 {apple-component.appleCount} \u9846\u860b\u679c",
+    "localization.sample": "\u672c\u5730\u5316\u6e2c\u8a66\u6210\u529f",
+    "menu.new_game": "\u4f60\u54c8\u54c8\u54c8\u54c8\u54c8\u54c8\u54c8\u54c8\u54c8",
+    "menu.quit": "\u96e2\u958b",
+    "menu.settings": "\u8a2d\u5b9a"
+  }
+}

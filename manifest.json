@@ -1,0 +1,54 @@
+{
+    "version":  "1.0.10",
+    "packages":  [
+                     {
+                         "locale":  "en",
+                         "version":  "1.0.10",
+                         "url":  "en.json",
+                         "sha256":  "0370fbcc53817f1af01a9e117762cf94d4c2649ada9a2b48622e7dda6cb3ca8b",
+                         "size":  629
+                     },
+                     {
+                         "locale":  "fr",
+                         "version":  "1.0.1",
+                         "url":  "fr.json",
+                         "sha256":  "280e2d24feec007cb273589ad6a9d255e5cc7a914c90e29a94370119f5dd0459",
+                         "size":  607
+                     },
+                     {
+                         "locale":  "ja",
+                         "version":  "1.0.0",
+                         "url":  "ja.json",
+                         "sha256":  "24ecad3973daca6e89680ecb864e121f81cff7e6ede2d63a2e93f33303437690",
+                         "size":  782
+                     },
+                     {
+                         "locale":  "ko",
+                         "version":  "1.0.0",
+                         "url":  "ko.json",
+                         "sha256":  "dc2c6061931b9eb3b5eb8d877fa3d8a338411ac8e304b0e85e4ca25bf4ca1bf7",
+                         "size":  757
+                     },
+                     {
+                         "locale":  "th",
+                         "version":  "1.0.0",
+                         "url":  "th.json",
+                         "sha256":  "bf7b58d36108507e0fe9ba0eb15567e461b1b0089a3f357530509203255fc996",
+                         "size":  1065
+                     },
+                     {
+                         "locale":  "zh-CN",
+                         "version":  "1.0.10",
+                         "url":  "zh-CN.json",
+                         "sha256":  "877a1b53804d5671a6973b609ee9e04f29d77b2e21332a85054e1799d9b276b1",
+                         "size":  835
+                     },
+                     {
+                         "locale":  "zh-TW",
+                         "version":  "1.0.5",
+                         "url":  "zh-TW.json",
+                         "sha256":  "1916c477588ce6fcc752aabe0b714ac607edfc251b4cd338dfefbac3b4b93d18",
+                         "size":  816
+                     }
+                 ]
+}

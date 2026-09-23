@@ -1,0 +1,18 @@
+{
+  "version": "1.0.1",
+  "locale": "fr",
+  "entries": {
+    "TestPanel.Test1": "Test 1",
+    "TestPanel.Test2": "Test 2",
+    "TestPanel.Test3": "Test 3",
+    "TestPanel.Test4": "Test",
+    "hotupdate.structure_version": "Addressables v2 FR",
+    "language.current": "Langue actuelle :",
+    "localization.asset": "Drapeau de la langue",
+    "localization.dynamic": "{global.player-name} a {apple-component.appleCount} pommes",
+    "localization.sample": "Addressables v2 FR",
+    "menu.new_game": "Nouvelle partie",
+    "menu.quit": "Quitter",
+    "menu.settings": "Param\u00e8tres"
+  }
+}

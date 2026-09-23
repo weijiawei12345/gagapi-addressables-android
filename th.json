@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "locale": "th",
+  "entries": {
+    "TestPanel.Test1": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e17\u0e35\u0e48 1",
+    "TestPanel.Test2": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e17\u0e35\u0e48 2",
+    "TestPanel.Test3": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e17\u0e35\u0e48 3",
+    "TestPanel.Test4": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e17\u0e35\u0e48 4",
+    "hotupdate.structure_version": "Addressables v2 TH",
+    "language.current": "\u0e20\u0e32\u0e29\u0e32\u0e1b\u0e31\u0e08\u0e08\u0e38\u0e1a\u0e31\u0e19:",
+    "localization.asset": "\u0e18\u0e07\u0e20\u0e32\u0e29\u0e32",
+    "localization.dynamic": "{global.player-name} \u0e21\u0e35 {apple-component.appleCount} \u0e41\u0e2d\u0e1b\u0e40\u0e1b\u0e34\u0e49\u0e25",
+    "localization.sample": "Addressables v2 TH",
+    "menu.new_game": "\u0e40\u0e01\u0e21\u0e43\u0e2b\u0e21\u0e48",
+    "menu.quit": "\u0e2d\u0e2d\u0e01",
+    "menu.settings": "\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32"
+  }
+}
