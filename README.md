@@ -1,9 +1,9 @@
 ﻿# gagapi-addressables-android
 
-## Remote.LoadPath (current)
+## Remote.LoadPath
 
-`https://raw.githubusercontent.com/weijiawei12345/gagapi-addressables-android/36976d3/`
+`https://raw.githubusercontent.com/weijiawei12345/gagapi-addressables-android/aa-android-latest/`
 
-jsDelivr is **not** used — files &gt; ~20MB return HTTP 403.
+Do not use jsDelivr (HTTP 403 for files over ~20MB).
 
-Floating tag (may lag on raw CDN): `aa-android-latest`
+After each publish: push main, then `git tag -f aa-android-latest && git push -f origin aa-android-latest`
