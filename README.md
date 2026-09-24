@@ -2,10 +2,14 @@
 
 Gagapi Unity Addressables remote content for **Android**.
 
-## Remote.LoadPath (important)
+## Remote.LoadPath
 
-jsDelivr returns **HTTP 403** for files over ~20MB. Use commit-pinned GitHub raw:
+`https://raw.githubusercontent.com/weijiawei12345/gagapi-addressables-android/aa-android-latest/`
 
-`https://raw.githubusercontent.com/weijiawei12345/gagapi-addressables-android/50c2b8c/`
+Do **not** use jsDelivr for this repo — files over ~20MB get HTTP 403.
 
-After each content release, pin Remote.LoadPath to the commit that contains the bundles, rebuild Addressables, then push the new catalog.
+## Publish steps
+
+1. Build Addressables in Unity (profile Remote.LoadPath = tag URL above)
+2. Copy `ServerData/Android` into this repo and push `main`
+3. Move tag: `git tag -f aa-android-latest && git push -f origin aa-android-latest`
