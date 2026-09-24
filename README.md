@@ -4,6 +4,11 @@
 
 `https://raw.githubusercontent.com/weijiawei12345/gagapi-addressables-android/aa-android-latest/`
 
-Do not use jsDelivr (HTTP 403 for files over ~20MB).
+## Hot update (Update a Previous Build)
 
-After each publish: push main, then `git tag -f aa-android-latest && git push -f origin aa-android-latest`
+1. Keep `Assets/AddressableAssetsData/Android/addressables_content_state.bin` from the player/base build
+2. Unity: Addressables Groups → Build → Update a Previous Build → select that `.bin`
+3. Upload changed `catalog_*.json` / `.hash` and new `*.bundle` files
+4. `git tag -f aa-android-latest && git push -f origin aa-android-latest`
+
+Do not pin LoadPath to a git commit --trailer "Co-authored-by: Cursor <cursoragent@cursor.com>" SHA — commits are immutable and cannot receive new update bundles.
