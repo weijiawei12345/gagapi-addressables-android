@@ -2,16 +2,10 @@
 
 Gagapi Unity Addressables remote content for **Android**.
 
-## Remote.LoadPath (Unity profile AndroidLocal)
+Synced from `ServerData/Android`.
 
-```
-https://cdn.jsdelivr.net/gh/weijiawei12345/gagapi-addressables-android@main/
-```
+## Remote.LoadPath
 
-Also used as Remote Catalog Load Path. After changing this URL, rebuild Addressables in Unity, then sync `ServerData/Android` here and push.
+Use GitHub raw (jsDelivr rejects files &gt; ~20MB with HTTP 403):
 
-## Update workflow
-
-1. Unity: Build > New Build > Default Build Script
-2. Copy `ServerData/Android/*` into this repo
-3. `git add -A && git commit --trailer "Co-authored-by: Cursor <cursoragent@cursor.com>" && git push`
+`https://raw.githubusercontent.com/weijiawei12345/gagapi-addressables-android/main/`
