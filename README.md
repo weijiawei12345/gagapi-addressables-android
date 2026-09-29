@@ -1,5 +1,5 @@
 ﻿# gagapi-addressables-android
 
-CDN root for Addressables Android hot-update (a-android-latest tag).
+CDN root for Addressables Android hot-update (`aa-android-latest`).
 
-Cleared 2026-09-28T17:59:19.4858099+08:00 — awaiting fresh ServerData publish.
+Published: 2026-09-29T15:48:32+08:00 from local ServerData/Android.
